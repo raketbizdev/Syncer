@@ -1,4 +1,4 @@
-# S3Syncer
+# Syncer
 
 ## Overview
 
