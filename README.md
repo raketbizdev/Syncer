@@ -2,7 +2,7 @@
 
 ## Overview
 
-S3Syncer is a Python script that monitors a specified local directory for new or updated files and automatically uploads them to an Amazon S3 bucket. It uses the Watchdog library to detect file changes and the Boto3 library to interact with Amazon S3.
+Syncer is a Python script that monitors a specified local directory for new or updated files and automatically uploads them to an Amazon S3 bucket.
 
 ## Prerequisites
 
