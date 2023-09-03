@@ -1,5 +1,6 @@
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
+import logging  # Make sure to import logging
 from aws_config import DIRECTORY_TO_WATCH
 from logging_config import LOGGING_FORMAT, LOGGING_DATE_FORMAT, LOGGING_LEVEL, LOG_FILE
 
