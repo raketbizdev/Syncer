@@ -46,8 +46,10 @@ S3Syncer is a Python script that monitors a specified local directory for new or
 
 ## Usage
 
-```
 Run the script by executing:
+
+```
+python main.py
 ```
 
 This will start monitoring the directory specified in `aws_config.py`. Any new or updated files will automatically be uploaded to the configured S3 bucket.
